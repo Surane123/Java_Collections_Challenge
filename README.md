@@ -30,3 +30,7 @@ No external libraries are required.
     2. Manage student names (HashMap)
     3. Manage service line (Queue)
     4. Exit
+
+## Author
+
+Surender R. (GitHub: Surane123)
